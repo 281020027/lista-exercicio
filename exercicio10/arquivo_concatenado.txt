@@ -1,0 +1,4 @@
+Conteúdo do arquivo1: Linha 1
+Linha 2 do arquivo1.
+Conteúdo do arquivo2: Linha 1
+Linha 2 do arquivo2.
